@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c3f792eca39f617",
+        "id": "6adff9397455fec7",
         "type": "tabs",
         "children": [
           {
-            "id": "d5144d69bd120409",
+            "id": "7a0c53cf0a34ac63",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAW/PHP/Pasos básicos PHP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Pasos básicos PHP"
+              "title": "Esquema"
             }
           },
           {
@@ -153,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -182,13 +181,16 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5144d69bd120409",
+  "active": "58701b74c7121abd",
   "lastOpenFiles": [
+    "2025-11-21.md",
+    "README.md",
     "DAW/PHP/Pasos básicos PHP.md",
     "Brainrotnt",
     "Sin título.canvas",
