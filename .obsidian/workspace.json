@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6adff9397455fec7",
+        "id": "41ae9f4aa1ac83ac",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0c53cf0a34ac63",
+            "id": "2195e53984803ce7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,13 +187,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "103ddd656e95fff0",
+  "active": "58701b74c7121abd",
   "lastOpenFiles": [
+    "DAW/PHP/Pasos básicos PHP.md",
+    "Untitled Kanban.md",
+    "Sin título.base",
+    "Sin título.canvas",
     "2025-11-21.md",
     "README.md",
-    "DAW/PHP/Pasos básicos PHP.md",
     "Brainrotnt",
-    "Sin título.canvas",
     "2025-11-20.md",
     "Bienvenido.md",
     "DAW/JS",
