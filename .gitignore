@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/app.json
+.obsidian/graph.json
+
+# Sistema
+.DS_Store
+Thumbs.db
